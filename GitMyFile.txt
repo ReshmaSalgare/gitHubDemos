@@ -5,3 +5,4 @@ this is new functionality
 Adding new line
 Trying to add new code
 adding some new code to file
+Adding this line from GIT
