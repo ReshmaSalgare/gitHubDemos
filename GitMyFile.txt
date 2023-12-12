@@ -13,3 +13,7 @@ pubic void login()
 {
     this is code for login
 } 
+public void logout()
+{
+this is code for logout;
+}
